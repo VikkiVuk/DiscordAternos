@@ -1,7 +1,4 @@
 import interactions
-from pymongo import MongoClient
-from python_aternos import Client as AternosClient
-import util.aternos_def as aternos_def
 
 
 class Login(interactions.Extension):
